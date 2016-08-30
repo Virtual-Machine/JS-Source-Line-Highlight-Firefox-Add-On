@@ -1,0 +1,19 @@
+{
+  "title": "JS Source Line Highlight",
+  "name": "js-line-highlight",
+  "version": "0.1.1",
+  "description": "Uses uri param (eg. ?l=22) to highlight lines in js view-source",
+  "main": "index.js",
+  "author": "Me",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "permissions" : {
+    "multiprocess": true
+  },
+  "keywords": [
+    "line-highlight"
+  ]
+}
